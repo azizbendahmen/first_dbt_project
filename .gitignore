@@ -8,3 +8,18 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local environment and secrets
+.env
+.env.*
+.vscode/
+**/profiles.yml
+**/.user.yml
+**/target/
+**/dbt_packages/
+**/logs/
+**/.env
+**/.env.*
+**/secrets/
+**/*.key
+**/*.pem
