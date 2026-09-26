@@ -1,0 +1,4 @@
+customer_name,customer_id,customer_type
+John Doe,1,Individual
+Jane Smith,2,Individual
+Acme Corporation,3,Company  
